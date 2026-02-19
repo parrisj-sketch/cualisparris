@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>LSC 555 HTML</title>
+
+    <style>
+        body {
+            background-color: #FFBE98;
+            font-family: Georgia;
+            margin: 40px;
+            text-align: left;
+        }
+
+        img {
+            width: 400px;
+            margin: 20px;
+            border-radius: 10px;
+        }
+
+        ol {
+            text-align: left;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Welcome to my webpage</h1>
+    <h2>I'd like to share my somewhat healthy obsession with American Dad!</h2>
+
+    <!-- Main Show Image -->
+    <img src="https://upload.wikimedia.org/wikipedia/en/8/8a/American_Dad%21_Logo.jpg" 
+         alt="American Dad Logo">
+
+    <p>There are roughly 130 hours of Seth MacFarlane's animated sitcom American Dad.</p>
+
+    <h1>Here are some of my favorite characters ranked</h1>
+
+    <!-- Roger Image -->
+    <img src="https://upload.wikimedia.org/wikipedia/en/7/70/Roger_American_Dad.png" 
+         alt="Roger from American Dad">
+
+    <ol>
+        <li>Roger (and the many personas)
+            <ul>
+                <li>Jeannie Gold</li>
+                <li>Roy Rogers McFreely</li>
+            </ul>
+        </li>
+        <li>Toshi</li>
+        <li>Francine Smith</li>
+    </ol>
+
+    <!-- Francine Image -->
+    <img src="https://upload.wikimedia.org/wikipedia/en/3/3a/Francine_Smith.png" 
+         alt="Francine Smith from American Dad">
+
+    <p>The show was just renewed for another season, making 21 wonderful years of the Seth MacFarlane hit, American Dad!</p>
+    <p>Available to stream on Hulu</p>
+
+</body>
+</html>
